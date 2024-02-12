@@ -1,4 +1,4 @@
-.gradle
+lesson/.gradle
 **/build/
 !src/**/build/
 
