@@ -1,2 +1,3 @@
-/lesson/build
-/lesson/gradle
+lesson/build
+lesson/gradle
+lesson/.gradle
