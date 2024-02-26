@@ -5,7 +5,6 @@ public class Main {
         var ukrainian = new UkrainianAlphabet();
         var english = new EnglishAlphabet();
         var german = new GermanAlphabet();
-
         ukrainian.printAlphabet();
         english.printAlphabet();
         german.printAlphabet();
