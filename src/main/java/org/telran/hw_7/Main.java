@@ -16,7 +16,7 @@ public class Main {
 
 //        for-each loop
         long start = System.currentTimeMillis();
-        for (int i: integerList) {
+        for (int i : integerList) {
             int temp = i;
         }
         long end = System.currentTimeMillis();
@@ -48,7 +48,6 @@ public class Main {
         System.out.println("classic for, list.size() определяем в переменную, перебираем с конца (i--): " + (end - start));
 
 // используя Itertor
-
         start = System.currentTimeMillis();
         Iterator<Integer> listIterator = integerList.iterator();
         while (listIterator.hasNext()) {

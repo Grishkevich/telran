@@ -5,7 +5,6 @@ import java.util.NoSuchElementException;
 
 public class CustomIterator implements Iterator {
 
-
     private int[] integers;
     private int index = 0;
 
